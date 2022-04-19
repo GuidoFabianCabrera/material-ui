@@ -1,0 +1,12 @@
+.background {
+  width: 100vw;
+  height: 100vh;
+  background-image: url('https://www.thetatoken.org/assets/background/grid_transparent_tile.png');
+  position: absolute;
+  left: 0;
+  background-size: 180px;
+  top: 0;
+  bottom: 0;
+  background-position: top center;
+  z-index: -1;
+}
